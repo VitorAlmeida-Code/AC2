@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434018792086",
+    "project_id": "ac2-desenvolvimento-mobi-ae229",
+    "storage_bucket": "ac2-desenvolvimento-mobi-ae229.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434018792086:android:50bf94661e45cb8e8388b7",
+        "android_client_info": {
+          "package_name": "com.example.ac2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJJq8tHv34n3xa5O8GDrkVSFrChb_zs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

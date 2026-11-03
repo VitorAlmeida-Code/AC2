@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Gerenciador de Livros</string>
+
+    <string-array name="generos">
+        <item>Selecione o gênero</item>
+        <item>Romance</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+        <item>Biografia</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Selecione o status</item>
+        <item>Quero ler</item>
+        <item>Lendo</item>
+        <item>Concluído</item>
+    </string-array>
+
+    <string-array name="filtro_generos">
+        <item>Todos</item>
+        <item>Romance</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+        <item>Biografia</item>
+    </string-array>
+</resources>
